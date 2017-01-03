@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 87cab9db6b2b398419235dfb8b3fdf9b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BengDaiNan_Skin
+    100002: BengDaiNan_Skin001
+    100004: Bip001
+    100006: Bip001 Footsteps
+    100008: Bip001 Head
+    100010: Bip001 HeadNub
+    100012: Bip001 L Calf
+    100014: Bip001 L Clavicle
+    100016: Bip001 L Finger0
+    100018: Bip001 L Finger01
+    100020: Bip001 L Finger02
+    100022: Bip001 L Finger0Nub
+    100024: Bip001 L Finger1
+    100026: Bip001 L Finger11
+    100028: Bip001 L Finger12
+    100030: Bip001 L Finger1Nub
+    100032: Bip001 L Finger2
+    100034: Bip001 L Finger21
+    100036: Bip001 L Finger22
+    100038: Bip001 L Finger2Nub
+    100040: Bip001 L Foot
+    100042: Bip001 L Forearm
+    100044: Bip001 L Hand
+    100046: Bip001 L Thigh
+    100048: Bip001 L Toe0
+    100050: Bip001 L Toe0Nub
+    100052: Bip001 L UpperArm
+    100054: Bip001 Neck
+    100056: Bip001 Pelvis
+    100058: Bip001 Prop1
+    100060: Bip001 R Calf
+    100062: Bip001 R Clavicle
+    100064: Bip001 R Finger0
+    100066: Bip001 R Finger01
+    100068: Bip001 R Finger02
+    100070: Bip001 R Finger0Nub
+    100072: Bip001 R Finger1
+    100074: Bip001 R Finger11
+    100076: Bip001 R Finger12
+    100078: Bip001 R Finger1Nub
+    100080: Bip001 R Finger2
+    100082: Bip001 R Finger21
+    100084: Bip001 R Finger22
+    100086: Bip001 R Finger2Nub
+    100088: Bip001 R Foot
+    100090: Bip001 R Forearm
+    100092: Bip001 R Hand
+    100094: Bip001 R Thigh
+    100096: Bip001 R Toe0
+    100098: Bip001 R Toe0Nub
+    100100: Bip001 R UpperArm
+    100102: Bip001 Spine
+    100104: Bip001 Spine1
+    100106: Bip001 Spine2
+    100108: Bip001 Xtra01
+    100110: Bip001 Xtra0102
+    100112: Bip001 Xtra0103
+    100114: Bip001 Xtra0104
+    100116: Bip001 Xtra01Nub
+    100118: Bip001 Xtra02
+    100120: Bip001 Xtra0202
+    100122: Bip001 Xtra0203
+    100124: Bip001 Xtra0204
+    100126: Bip001 Xtra02Nub
+    100128: Bip001 Xtra02Opp
+    100130: Bip001 Xtra02Opp02
+    100132: Bip001 Xtra02Opp03
+    100134: Bip001 Xtra02Opp04
+    100136: Bip001 Xtra02OppNub
+    100138: Bip001 Xtra03
+    100140: Bip001 Xtra0302
+    100142: Bip001 Xtra0303
+    100144: Bip001 Xtra0304
+    100146: Bip001 Xtra03Nub
+    100148: wuqi
+    100150: //RootNode
+    400000: BengDaiNan_Skin
+    400002: BengDaiNan_Skin001
+    400004: Bip001
+    400006: Bip001 Footsteps
+    400008: Bip001 Head
+    400010: Bip001 HeadNub
+    400012: Bip001 L Calf
+    400014: Bip001 L Clavicle
+    400016: Bip001 L Finger0
+    400018: Bip001 L Finger01
+    400020: Bip001 L Finger02
+    400022: Bip001 L Finger0Nub
+    400024: Bip001 L Finger1
+    400026: Bip001 L Finger11
+    400028: Bip001 L Finger12
+    400030: Bip001 L Finger1Nub
+    400032: Bip001 L Finger2
+    400034: Bip001 L Finger21
+    400036: Bip001 L Finger22
+    400038: Bip001 L Finger2Nub
+    400040: Bip001 L Foot
+    400042: Bip001 L Forearm
+    400044: Bip001 L Hand
+    400046: Bip001 L Thigh
+    400048: Bip001 L Toe0
+    400050: Bip001 L Toe0Nub
+    400052: Bip001 L UpperArm
+    400054: Bip001 Neck
+    400056: Bip001 Pelvis
+    400058: Bip001 Prop1
+    400060: Bip001 R Calf
+    400062: Bip001 R Clavicle
+    400064: Bip001 R Finger0
+    400066: Bip001 R Finger01
+    400068: Bip001 R Finger02
+    400070: Bip001 R Finger0Nub
+    400072: Bip001 R Finger1
+    400074: Bip001 R Finger11
+    400076: Bip001 R Finger12
+    400078: Bip001 R Finger1Nub
+    400080: Bip001 R Finger2
+    400082: Bip001 R Finger21
+    400084: Bip001 R Finger22
+    400086: Bip001 R Finger2Nub
+    400088: Bip001 R Foot
+    400090: Bip001 R Forearm
+    400092: Bip001 R Hand
+    400094: Bip001 R Thigh
+    400096: Bip001 R Toe0
+    400098: Bip001 R Toe0Nub
+    400100: Bip001 R UpperArm
+    400102: Bip001 Spine
+    400104: Bip001 Spine1
+    400106: Bip001 Spine2
+    400108: Bip001 Xtra01
+    400110: Bip001 Xtra0102
+    400112: Bip001 Xtra0103
+    400114: Bip001 Xtra0104
+    400116: Bip001 Xtra01Nub
+    400118: Bip001 Xtra02
+    400120: Bip001 Xtra0202
+    400122: Bip001 Xtra0203
+    400124: Bip001 Xtra0204
+    400126: Bip001 Xtra02Nub
+    400128: Bip001 Xtra02Opp
+    400130: Bip001 Xtra02Opp02
+    400132: Bip001 Xtra02Opp03
+    400134: Bip001 Xtra02Opp04
+    400136: Bip001 Xtra02OppNub
+    400138: Bip001 Xtra03
+    400140: Bip001 Xtra0302
+    400142: Bip001 Xtra0303
+    400144: Bip001 Xtra0304
+    400146: Bip001 Xtra03Nub
+    400148: wuqi
+    400150: //RootNode
+    4300000: BengDaiNan_Skin
+    4300002: wuqi
+    4300004: BengDaiNan_Skin001
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: BengDaiNan_Skin
+    13700002: BengDaiNan_Skin001
+    13700004: wuqi
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0500000007
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

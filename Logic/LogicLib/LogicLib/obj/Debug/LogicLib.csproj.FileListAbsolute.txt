@@ -1,0 +1,7 @@
+E:\projects\DarkBattle\Logic\LogicLib\LogicLib\bin\Debug\LogicLib.dll
+E:\projects\DarkBattle\Logic\LogicLib\LogicLib\bin\Debug\LogicLib.pdb
+E:\projects\DarkBattle\Logic\LogicLib\LogicLib\bin\Debug\UnityEditor.dll
+E:\projects\DarkBattle\Logic\LogicLib\LogicLib\bin\Debug\UnityEngine.dll
+E:\projects\DarkBattle\Logic\LogicLib\LogicLib\obj\Debug\LogicLib.dll
+E:\projects\DarkBattle\Logic\LogicLib\LogicLib\obj\Debug\LogicLib.pdb
+E:\projects\DarkBattle\Logic\LogicLib\LogicLib\obj\Debug\LogicLib.csprojResolveAssemblyReference.cache

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CheckPointData>
+		<id_i>0</id_i>
+		<name_s>没有东西</name_s>
+		<weight_i>3</weight_i>
+	</CheckPointData>
+	<CheckPointData>
+		<id_i>1</id_i>
+		<name_s>木桶</name_s>
+		<weight_i>1</weight_i>
+	</CheckPointData>
+	<CheckPointData>
+		<id_i>2</id_i>
+		<name_s>棺木</name_s>
+		<weight_i>1</weight_i>
+	</CheckPointData>
+	<CheckPointData>
+		<id_i>3</id_i>
+		<name_s>背包</name_s>
+		<weight_i>1</weight_i>
+	</CheckPointData>
+</root>

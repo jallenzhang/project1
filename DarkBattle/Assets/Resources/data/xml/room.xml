@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<RoomData>
+		<id_i>0</id_i>
+		<name_s>入口</name_s>
+		<weight_i>0</weight_i>
+	</RoomData>
+	<RoomData>
+		<id_i>1</id_i>
+		<name_s>未知</name_s>
+		<weight_i>2</weight_i>
+	</RoomData>
+	<RoomData>
+		<id_i>2</id_i>
+		<name_s>空房间</name_s>
+		<weight_i>4</weight_i>
+	</RoomData>
+	<RoomData>
+		<id_i>3</id_i>
+		<name_s>有宝藏的房间</name_s>
+		<weight_i>3</weight_i>
+	</RoomData>
+	<RoomData>
+		<id_i>4</id_i>
+		<name_s>BOSS房间</name_s>
+		<weight_i>1</weight_i>
+	</RoomData>
+	<RoomData>
+		<id_i>5</id_i>
+		<name_s>战斗房间</name_s>
+		<weight_i>1</weight_i>
+	</RoomData>
+</root>
